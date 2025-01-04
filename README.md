@@ -18,6 +18,6 @@
 
 ### Resutados
 
-![Alt text](./passwd.jpg "Log da captura")
+![Credenciais](./passwd.jpg "Log da captura")
 
-![Alt text](./fakeinsta.jpg "Site clonado")
+![Fake page](./fakeinsta.jpg "Site clonado")
