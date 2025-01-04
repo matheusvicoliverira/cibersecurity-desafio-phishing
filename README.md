@@ -18,6 +18,9 @@
 
 ### Resutados
 
-![Credenciais](./passwd.jpg "Log da captura")
 
-![Fake page](./fakeinsta.jpg "Site clonado")
+![passwd](https://github.com/user-attachments/assets/f99bf0ba-c384-4fe4-a973-981ae91c13db)
+
+![fakeinsta](https://github.com/user-attachments/assets/9c24af50-b85d-49a9-a969-c8e9cc5717b9)
+
+
